@@ -1,6 +1,8 @@
 body {
     Font-family: Verdana;
     background-color: black;
+    text-align: center;
+    color: white;
 }
 
 h1 {
@@ -15,6 +17,13 @@ h1 {
   font-size: 16px
 }
 
-.header {
-  text-align: center;
+
+.block2 p {
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
 }
